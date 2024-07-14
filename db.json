@@ -1,0 +1,49 @@
+[
+    {
+        "id" : 1,
+        "categorie" : "Headphone",
+        "link":"localhost/REASSIGNMENT.ME/SEE HEADPHONE.html"
+    },
+
+    {
+        "id" : 2,
+        "categorie" : "Laptop",
+        "link":"localhost/REASSIGNMENT.ME/seelap.html"
+    },
+
+    {
+        "id" : 3,
+        "categorie" : "Mouse",
+        "link":"localhost/REASSIGNMENT.ME/see mouse.html"
+    },
+
+    {
+        "id" : 4,
+        "categorie" : "SSD",
+        "link":"localhost/REASSIGNMENT.ME/see ssd.html"
+    },
+
+    {
+        "id" : 5,
+        "categorie" : "Processor",
+        "link":"localhost/REASSIGNMENT.ME/see proce.html"
+    },
+
+    {
+        "id" : 6,
+        "categorie" : "Hard drive",
+        "link":"localhost/REASSIGNMENT.ME/seehard drive.html"
+    },
+
+    {
+        "id" : 7,
+        "categorie" : "Keyboard",
+        "link":"localhost/REASSIGNMENT.ME/SEEMOREKEY.HTML"
+    },
+
+    {
+        "id" : 8,
+        "categorie" : "Speaker",
+        "link":"localhost/REASSIGNMENT.ME/see spe.html"
+    }
+]
